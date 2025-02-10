@@ -1,1 +1,1 @@
-# -automation_qa_course
+# automation_qa_course
